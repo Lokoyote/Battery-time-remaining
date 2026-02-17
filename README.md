@@ -22,14 +22,14 @@ When you disable the extension:
 1. Create the extension directory:
 
 ```bash
-mkdir -p ~/.local/share/gnome-shell/extensions/battery-time-remaining@gnome-shell-extension
+mkdir -p ~/.local/share/gnome-shell/extensions/battery-time-remaining@lokoyote.eu
 
 ```
 
 2. Copy the files into this folder:
 
 ```bash
-cp metadata.json extension.js stylesheet.css ~/.local/share/gnome-shell/extensions/battery-time-remaining@gnome-shell-extension/
+cp metadata.json extension.js stylesheet.css ~/.local/share/gnome-shell/extensions/battery-time-remaining@glokoyote.eu/
 
 ```
 
@@ -41,7 +41,7 @@ cp metadata.json extension.js stylesheet.css ~/.local/share/gnome-shell/extensio
 4. Enable the extension:
 
 ```bash
-gnome-extensions enable battery-time-remaining@gnome-shell-extension
+gnome-extensions enable battery-time-remaining@lokoyote.eu
 
 ```
 
@@ -56,8 +56,8 @@ Or use the "Extensions" app (gnome-extensions-app).
 ## Uninstallation
 
 ```bash
-gnome-extensions disable battery-time-remaining@gnome-shell-extension
-rm -rf ~/.local/share/gnome-shell/extensions/battery-time-remaining@gnome-shell-extension
+gnome-extensions disable battery-time-remaining@lokoyote.eu
+rm -rf ~/.local/share/gnome-shell/extensions/battery-time-remaining@lokoyote.eu
 
 ```
 
