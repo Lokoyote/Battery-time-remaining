@@ -4,6 +4,8 @@ This extension modifies the existing battery indicator in the top bar to display
 
 Example: `85% (2:34)` or `45% (1:15)`
 
+![https://github.com/Lokoyote/Battery-time-remaining/blob/main/Battery-Time-Remaining.png](https://github.com/Lokoyote/Battery-time-remaining/blob/main/Battery-Time-Remaining-screen.png)
+
 ## How it Works
 
 When you enable the extension:
