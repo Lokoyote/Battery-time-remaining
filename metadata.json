@@ -1,0 +1,12 @@
+{
+  "name": "Battery Time Remaining",
+  "description": "A fork of 'Battery Time' (by jv-m) that displays both remaining time and percentage in the quick settings. Original: https://extensions.gnome.org/extension/1475/battery-time/",
+  "uuid": "battery-time-remaining@lokoyote.eu",
+  "shell-version": [
+    "45",
+    "46",
+    "47"
+  ],
+  "url": "https://extensions.gnome.org/extension/1475/battery-time/",
+  "version": 1
+}
